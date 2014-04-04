@@ -1,0 +1,17 @@
+button {
+	display: inline-block;
+	margin: 10px 10px 10px 10px;
+	box-shadow: 5px 5px 5px #888;
+	border: 0px;
+	padding:0;
+	background-color: white;
+}
+
+button:hover {
+	background: #4472FF;
+}
+
+img {
+	width : 200px;
+	height : 200px;
+}
